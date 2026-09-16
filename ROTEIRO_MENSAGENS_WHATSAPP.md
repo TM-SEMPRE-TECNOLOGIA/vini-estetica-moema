@@ -19,7 +19,7 @@ Preparei um material bem direto e dinâmico, sem rodeios técnicos complicados:
 3. Estruturei o que clínicas líderes estão fazendo para reter esse público de alta renda.
 
 Segue o PDF completo em anexo 📄 
-*(E se preferir ler no navegador com visual interativo, você também pode acessar por aqui: [LINK_DO_SEU_GITHUB_PAGES])*
+*(E se preferir ler no navegador com visual interativo, você também pode acessar por aqui: https://tm-sempre-tecnologia.github.io/vini-estetica-moema/)*
 
 Dá uma olhada com calma quando tiver um intervalo entre atendimentos. No finalzinho dele deixei 5 perguntinhas rápidas pra gente entender o seu momento e calibrar os próximos passos!"
 
